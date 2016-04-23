@@ -1,0 +1,27 @@
+{
+  "name": "sample-bot-0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mghaderyan-nisum-com/sample-bot-0.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": "v4.2.2",
+    "npm": "2.14.7"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mghaderyan-nisum-com/sample-bot-0/issues"
+  },
+  "homepage": "https://github.com/mghaderyan-nisum-com/sample-bot-0#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
